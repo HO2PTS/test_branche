@@ -1,0 +1,12 @@
+body{
+
+    margin : auto 50px;
+    background-color: orange;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 500;
+    color: orangered;
+}
