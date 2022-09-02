@@ -1,6 +1,7 @@
 body{
 
     margin : auto 50px;
+    background-color: orange;
 
 }
 h1{
@@ -8,5 +9,4 @@ h1{
     font-size: 50px;
     font-weight: 500;
     color: orangered;
-    background-color: orange;
 }
